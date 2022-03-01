@@ -10,5 +10,5 @@ The task control of this project will be carried out on GitHub.
 
 :package: new features
 :up: update
-:beatle: bug fix
+:beetle: bug fix
 :checkered_flag: release
